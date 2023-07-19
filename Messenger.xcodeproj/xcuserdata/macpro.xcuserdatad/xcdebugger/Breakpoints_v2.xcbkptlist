@@ -18,6 +18,83 @@
             endingLineNumber = "9"
             landmarkName = "unknown"
             landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5DBBC1D5-736B-4139-A5B1-FBAEF61D1BA7 - 2b475c310854a38c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Messenger.ProfileViewViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Messenger.ProfileViewViewController"
+                  moduleName = "Messenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/Messenger/Messenger/Controllers/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "5DBBC1D5-736B-4139-A5B1-FBAEF61D1BA7 - e7aee286aa9cbd1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Messenger.ProfileViewViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Messenger.ProfileViewViewController"
+                  moduleName = "Messenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/Messenger/Messenger/Controllers/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "5DBBC1D5-736B-4139-A5B1-FBAEF61D1BA7 - 8fdfd868b9cdadf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Messenger.ProfileViewViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Messenger.ProfileViewViewController&gt;"
+                  moduleName = "Messenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/Messenger/Messenger/Controllers/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "5DBBC1D5-736B-4139-A5B1-FBAEF61D1BA7 - b5320815c1364fd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Messenger.ProfileViewViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Messenger.ProfileViewViewController&gt;"
+                  moduleName = "Messenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/Messenger/Messenger/Controllers/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "5DBBC1D5-736B-4139-A5B1-FBAEF61D1BA7 - b5d2bcc4b054d783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Messenger.ProfileViewViewController.__deallocating_deinit"
+                  moduleName = "Messenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/Messenger/Messenger/Controllers/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
