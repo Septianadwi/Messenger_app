@@ -229,7 +229,6 @@ extension RegisterViewController: UITextFieldDelegate {
     }
 }
 
-
 extension RegisterViewController: UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
 
